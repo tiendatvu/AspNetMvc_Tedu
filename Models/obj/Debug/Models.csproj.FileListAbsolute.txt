@@ -1,0 +1,10 @@
+E:\1_Learning\Projects\c#\AspNetMvc_Tedu\OnlineShop\Models\bin\Debug\Models.dll.config
+E:\1_Learning\Projects\c#\AspNetMvc_Tedu\OnlineShop\Models\bin\Debug\Models.dll
+E:\1_Learning\Projects\c#\AspNetMvc_Tedu\OnlineShop\Models\bin\Debug\Models.pdb
+E:\1_Learning\Projects\c#\AspNetMvc_Tedu\OnlineShop\Models\bin\Debug\EntityFramework.dll
+E:\1_Learning\Projects\c#\AspNetMvc_Tedu\OnlineShop\Models\bin\Debug\EntityFramework.SqlServer.dll
+E:\1_Learning\Projects\c#\AspNetMvc_Tedu\OnlineShop\Models\bin\Debug\EntityFramework.xml
+E:\1_Learning\Projects\c#\AspNetMvc_Tedu\OnlineShop\Models\bin\Debug\EntityFramework.SqlServer.xml
+E:\1_Learning\Projects\c#\AspNetMvc_Tedu\OnlineShop\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+E:\1_Learning\Projects\c#\AspNetMvc_Tedu\OnlineShop\Models\obj\Debug\Models.dll
+E:\1_Learning\Projects\c#\AspNetMvc_Tedu\OnlineShop\Models\obj\Debug\Models.pdb
