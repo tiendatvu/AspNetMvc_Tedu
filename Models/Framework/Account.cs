@@ -1,4 +1,4 @@
-﻿namespace Models.Framework
+namespace Models.Framework
 {
     using System;
     using System.Collections.Generic;
@@ -6,11 +6,6 @@
     using System.ComponentModel.DataAnnotations.Schema;
     using System.Data.Entity.Spatial;
 
-    /// <summary>
-    /// - Được tự động tạo sau khi tạo ADO.NET Entity Data Model
-    /// - Với mỗi một table trong db -> tạo ra 1 entity tương ứng
-    /// ví dụ với trường hợp table Account này trong db OnlineShop
-    /// </summary>
     [Table("Account")]
     public partial class Account
     {
