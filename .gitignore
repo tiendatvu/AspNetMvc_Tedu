@@ -1,5 +1,6 @@
 # Don't track content of these folders
 OnlineShop.Tests/obj/Debug/
+OnlineShop.Tests/bin/Debug/
 OnlineShop/obj/Debug/
 OnlineShop/bin/
 Models/obj/Debug/
